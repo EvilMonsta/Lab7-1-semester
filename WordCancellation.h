@@ -1,0 +1,1 @@
+void WordCancellation(char*str, int len);

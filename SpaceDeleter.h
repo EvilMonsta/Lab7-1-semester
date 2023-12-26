@@ -1,0 +1,1 @@
+void SpaceDeleter(char *string, int StrLen);

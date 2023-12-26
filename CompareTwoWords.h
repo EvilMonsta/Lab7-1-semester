@@ -1,0 +1,1 @@
+int CompareTwoWords(char* word1, char* word2);
